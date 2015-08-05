@@ -25,5 +25,8 @@
   },
   "dependencies": {
     "johnny-five": "~0.8.85"
+  },
+  "devDependencies": {
+    "phantomjs": "~1.9.17"
   }
 }
