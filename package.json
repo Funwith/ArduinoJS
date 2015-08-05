@@ -1,0 +1,29 @@
+{
+  "name": "ArduinoJS",
+  "version": "0.0.1",
+  "description": "Javascript Robotics",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xgi/arduinojs"
+  },
+  "keywords": [
+    "Javascript",
+    "Robotics",
+    "Johnny-five",
+    "cylon",
+    "Arduino",
+    "nodebots"
+  ],
+  "author": "Le Phu Hai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xgi/arduinojs/issues"
+  },
+  "dependencies": {
+    "johnny-five": "~0.8.85"
+  }
+}
