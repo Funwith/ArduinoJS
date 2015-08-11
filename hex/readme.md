@@ -14,4 +14,13 @@ Path location is not found:
 sudo apt-get install arduino
 ```
 
+Example:
+
+$ `ino init -t blink`
+
+$ `ino build`
+
+$ `ino upload` 
+
+
 Happy coding!!
